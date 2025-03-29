@@ -23,7 +23,7 @@ This is a **React.js User Management Application** that allows users to **view, 
 1. Clone the repository:
    ```sh
    git clone https://github.com/tanjim-alam/employwise.git
-   cd user-management
+   cd employwise
    ```
 2. Install dependencies:
    ```sh
@@ -43,22 +43,6 @@ This is a **React.js User Management Application** that allows users to **view, 
 5. Use **Next/Previous** buttons to navigate pages.
 
 ## Project Structure
-
-```
-user-management/
-│── src/
-│   ├── components/
-│   │   ├── UsersList.js
-│   │   ├── UserModel.js
-│   │   ├── Header.js
-│   ├── redux/
-│   │   ├── userSlice.js
-│   ├── App.js
-│   ├── index.js
-│── public/
-│── package.json
-│── README.md
-```
 
 ## API Endpoints (Reqres)
 
